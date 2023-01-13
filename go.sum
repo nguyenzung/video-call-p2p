@@ -1,4 +1,12 @@
 github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/nguyenzung/nodego v0.0.0-20230110040443-8792f9011ea0 h1:ATIwjhLSjBIJalOYqdaQW7k/6XQ03xhSIqVUzDPaDeA=
 github.com/nguyenzung/nodego v0.0.0-20230110040443-8792f9011ea0/go.mod h1:aRM4Nt5N7SFNEVYsrvUImrSirEDrJwp+LdrzTak9YDE=
+github.com/nguyenzung/nodego v0.0.0-20230112105002-d7c207ef169b h1:O78DgNLdHAkR1rXanHjpNF7/bti2HViig2VAK2tnPfs=
+github.com/nguyenzung/nodego v0.0.0-20230112105002-d7c207ef169b/go.mod h1:aRM4Nt5N7SFNEVYsrvUImrSirEDrJwp+LdrzTak9YDE=
+github.com/nguyenzung/nodego v0.0.0-20230113083159-437b8e0de224 h1:FBlrMaeC+m8DdDXZ5gB4rXinfOMmf5l0R1oAy+n+l/I=
+github.com/nguyenzung/nodego v0.0.0-20230113083159-437b8e0de224/go.mod h1:aRM4Nt5N7SFNEVYsrvUImrSirEDrJwp+LdrzTak9YDE=
+github.com/nguyenzung/nodego v0.0.0-20230113083946-d022f5294acf h1:HTM1UiuaCswTW1cM/Gyw1RLhXY21t6ddDOIhqdOje4I=
+github.com/nguyenzung/nodego v0.0.0-20230113083946-d022f5294acf/go.mod h1:aRM4Nt5N7SFNEVYsrvUImrSirEDrJwp+LdrzTak9YDE=
